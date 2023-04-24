@@ -76,6 +76,7 @@ const Home = () => {
 
 
             </div>
+            <div className=' flex flex-col  gap-3'>
             <div className='bg-slate-400 p-5 rounded-md text-white'>
                 <p className='text-white text-xl'>Name</p>
                 <p className='text-white text-lg'>Email</p>
@@ -84,8 +85,11 @@ const Home = () => {
                     
                 </div>
             </div>
+            
+            </div>
 
         </div>
+        
         
           {newUser ? 
           <>

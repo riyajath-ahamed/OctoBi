@@ -1,0 +1,14 @@
+{
+    "users": {
+      "user1@example.com": {
+        "name": "John Doe",
+        "contactNumber": "+1234567890",
+        "hobbies": ["reading", "running"]
+      },
+      "user2@example.com": {
+        "name": "Jane Smith",
+        "contactNumber": "+9876543210",
+        "hobbies": ["swimming", "traveling", "photography"]
+      }
+    }
+  }
