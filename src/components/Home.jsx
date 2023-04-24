@@ -52,6 +52,9 @@ const Home = () => {
           };
 
 
+         
+
+
   return (
     <div className='flex flex-col gap-5 w-full'>
         <div className='bg-slate-300 p-7 basis-1/3 w-full '>

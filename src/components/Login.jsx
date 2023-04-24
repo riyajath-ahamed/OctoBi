@@ -52,6 +52,8 @@ const Login = ({setAuth}) => {
       }
   }
   
+
+
     const firebaseAuth = getAuth(app);
     const navigate = useNavigate();
   
